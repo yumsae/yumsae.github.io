@@ -1,9 +1,18 @@
-h2 { <style>
-@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
-</style>
+
+
+h1 {
+    @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+    text-align : center;
+    line-height : px;
 }
 
-p {<style>
+
+h2 {
 @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
-</style>
+
+}
+
+p {
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+
 }
