@@ -5,13 +5,13 @@ background: -webkit-linear-gradient(to right, #FF8235, #30E8BF);  /* Chrome 10-2
 background: linear-gradient(to right, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.mainbox {
+.mainbox{
 background : white;
 border : 3px;
 border-color : #DBDCDC;
 }
 
-h1 {
+.div{
     @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
     text-align : center;
     line-height : px;
@@ -22,12 +22,12 @@ h1 {
 }
 
 
-h2 {
+h2{
 @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
 
 }
 
-p {
+p{
 @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
 
 }
