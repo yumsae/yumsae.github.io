@@ -5,7 +5,7 @@ background: -webkit-linear-gradient(to right, #FF8235, #30E8BF);  /* Chrome 10-2
 background: linear-gradient(to right, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.title_box{
+.mainbox{
 background : white;
 border : 3px;
 border-color : #DBDCDC;
