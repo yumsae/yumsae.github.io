@@ -1,21 +1,4 @@
 
-.mainbox{
-background: #30E8BF;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #FF8235, #30E8BF);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-.titlebox{
-    @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
-    text-align : center;
-    line-height : px;
-    background : #0B610B;
-    color : #FACC2E;
-    border : 3px;
-    border-color : #DBDCDC;
-}
-
-
 h2{
 @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
 
@@ -25,3 +8,21 @@ p{
 @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
 
 }
+
+
+.mainbox{
+background: #30E8BF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF8235, #30E8BF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.titlebox{
+    @import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+    text-align : center;
+    background : #0B610B;
+    color : #FACC2E;
+    border : 3px;
+    border-color : #DBDCDC;
+}
+
+
